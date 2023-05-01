@@ -1,0 +1,532 @@
+Uri: https://app.comagic.ru/static/cs.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\static\cs.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.10/SmoothScroll.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\ajax\libs\smoothscroll\1.4.10\SmoothScroll.min.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/71712862
+File Name: C:\Downloaded Web Sites\puzzletea.ru\watch\71712862
+Content Type: image/gif
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://puzzletea.ru/
+File Name: C:\Downloaded Web Sites\puzzletea.ru\index.htm
+Content Type: text/html
+
+Uri: https://puzzletea.ru/catalog
+File Name: C:\Downloaded Web Sites\puzzletea.ru\catalog.html
+Content Type: text/html
+
+Uri: https://puzzletea.ru/corporate-gifts
+File Name: C:\Downloaded Web Sites\puzzletea.ru\corporate-gifts.html
+Content Type: text/html
+
+Uri: https://puzzletea.ru/recipes
+File Name: C:\Downloaded Web Sites\puzzletea.ru\recipes.html
+Content Type: text/html
+
+Uri: https://puzzletea.ru/rss.xml
+File Name: C:\Downloaded Web Sites\puzzletea.ru\rss.xml
+Content Type: application/xml
+
+Uri: https://puzzletea.ru/tilda-blocks-page20089785.min.css?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page20089785.min.css
+Content Type: text/css
+
+Uri: https://puzzletea.ru/tilda-blocks-page20089785.min.js?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page20089785.min.js
+Content Type: application/javascript
+
+Uri: https://puzzletea.ru/tilda-blocks-page20458868.min.css?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page20458868.min.css
+Content Type: text/css
+
+Uri: https://puzzletea.ru/tilda-blocks-page20458868.min.js?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page20458868.min.js
+Content Type: application/javascript
+
+Uri: https://puzzletea.ru/tilda-blocks-page23004587.min.css?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page23004587.min.css
+Content Type: text/css
+
+Uri: https://puzzletea.ru/tilda-blocks-page23004587.min.js?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page23004587.min.js
+Content Type: application/javascript
+
+Uri: https://puzzletea.ru/tilda-blocks-page30246026.min.css?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page30246026.min.css
+Content Type: text/css
+
+Uri: https://puzzletea.ru/tilda-blocks-page30246026.min.js?t=1681717795
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tilda-blocks-page30246026.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-catalog-1.1.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-catalog-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-delivery-1.0.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-delivery-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-zoom-2.0.min.css
+File Name: C:\Downloaded Web Sites\puzzletea.ru\css\tilda-zoom-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/masonry-imagesloaded.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\masonry-imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-ext-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-animation-ext-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-cart-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-cart-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-catalog-1.1.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-catalog-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-delivery-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-delivery-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-fonts.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-fonts.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-products-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-products-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-promocode-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-promocode-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-video-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-video-processor-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-video-processor-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zoom-2.0.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\js\tilda-zoom-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3030-3236-4461-a638-636464633739/-/resizeb/20x/IMG_20210422_163947-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3030-3236-4461-a638-636464633739\-\resizeb\20x\IMG_20210422_163947-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3031-6164-4531-a363-633231666232/-/empty/004.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3031-6164-4531-a363-633231666232\-\empty\004.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3031-6635-4663-b738-343539303538/-/resizeb/20x/-___Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3031-6635-4663-b738-343539303538\-\resizeb\20x\-___Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3038-6235-4166-b539-623063323363/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3038-6235-4166-b539-623063323363\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3038-6266-4963-b738-306462303764/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3038-6266-4963-b738-306462303764\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3061-3661-4038-a165-393561373865/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3061-3661-4038-a165-393561373865\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3065-6262-4636-b464-626562326436/-/empty/2.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3065-6262-4636-b464-626562326436\-\empty\2.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3135-6564-4738-b734-366537396361/-/empty/2.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3135-6564-4738-b734-366537396361\-\empty\2.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3138-3733-4335-a362-383361653532/midi.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3138-3733-4335-a362-383361653532\midi.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3234-6233-4934-b538-323661336139/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3234-6233-4934-b538-323661336139\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3238-3064-4137-a264-383564663830/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3238-3064-4137-a264-383564663830\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3262-3331-4632-b632-363931313032/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3262-3331-4632-b632-363931313032\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3263-3133-4764-b437-346262373934/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3263-3133-4764-b437-346262373934\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3265-3837-4337-b664-303533353830/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3265-3837-4337-b664-303533353830\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3266-3063-4335-b231-633633393335/-/resizeb/20x/IMG_20210422_164413-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3266-3063-4335-b231-633633393335\-\resizeb\20x\IMG_20210422_164413-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3330-3435-4332-b339-663065386162/-/resizeb/20x/_______Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3330-3435-4332-b339-663065386162\-\resizeb\20x\_______Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3330-3562-4435-b536-343233313936/hero_2.png
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3330-3562-4435-b536-343233313936\hero_2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3332-6438-4837-b636-663030326264/-/resizeb/20x/IMG_20210422_164424-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3332-6438-4837-b636-663030326264\-\resizeb\20x\IMG_20210422_164424-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3333-6533-4937-a535-653731383833/-/resizeb/20x/__Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3333-6533-4937-a535-653731383833\-\resizeb\20x\__Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3336-3436-4162-b164-316435343561/-/empty/IMG_20210422_112032-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3336-3436-4162-b164-316435343561\-\empty\IMG_20210422_112032-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3339-3233-4637-a562-336366326666/-/empty/2.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3339-3233-4637-a562-336366326666\-\empty\2.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3339-3366-4165-a365-303532313163/-/resizeb/20x/IMG_20210610_165147-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3339-3366-4165-a365-303532313163\-\resizeb\20x\IMG_20210610_165147-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3364-3662-4964-a236-653637343834/-/resizeb/20x/__Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3364-3662-4964-a236-653637343834\-\resizeb\20x\__Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3365-3336-4332-b162-396639643335/4-1.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3365-3336-4332-b162-396639643335\4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3434-6137-4634-b632-343563343936/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3434-6137-4634-b632-343563343936\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3435-3038-4137-b032-396262316662/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3435-3038-4137-b032-396262316662\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3462-3937-4539-b132-343231666338/-/resizeb/20x/__Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3462-3937-4539-b132-343231666338\-\resizeb\20x\__Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3463-3132-4865-b561-623564346134/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3463-3132-4865-b561-623564346134\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3464-3233-4332-b732-646133343562/-/empty/1011.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3464-3233-4332-b732-646133343562\-\empty\1011.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3464-3962-4365-b834-323933613463/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3464-3962-4365-b834-323933613463\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3465-6461-4238-b235-333266383538/-/resizeb/20x/__Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3465-6461-4238-b235-333266383538\-\resizeb\20x\__Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3466-6133-4364-b666-386461616338/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3466-6133-4364-b666-386461616338\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3530-3539-4462-a639-633730303966/-/resizeb/20x/___Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3530-3539-4462-a639-633730303966\-\resizeb\20x\___Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3531-6137-4866-a561-326361363764/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3531-6137-4866-a561-326361363764\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3532-3935-4562-b135-616662613463/hero_1.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3532-3935-4562-b135-616662613463\hero_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3537-3065-4132-b663-343931303434/-/resizeb/20x/_2______Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3537-3065-4132-b663-343931303434\-\resizeb\20x\_2______Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3563-3138-4131-b165-376531326137/-/resizeb/20x/____Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3563-3138-4131-b165-376531326137\-\resizeb\20x\____Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3565-3332-4137-a165-616337326239/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3565-3332-4137-a165-616337326239\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3633-6461-4137-b732-353964613133/4-2.png
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3633-6461-4137-b732-353964613133\4-2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3636-6263-4365-b433-363932393033/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3636-6263-4365-b433-363932393033\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3637-6363-4164-a462-633230383834/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3637-6363-4164-a462-633230383834\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3664-6464-4263-b065-343736373538/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3664-6464-4263-b065-343736373538\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3665-3562-4438-b633-303633636231/_Puzzle_Tea________2.png
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3665-3562-4438-b633-303633636231\_Puzzle_Tea________2.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3732-6235-4839-b631-666165633361/-/resizeb/20x/IMG_20210422_130207-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3732-6235-4839-b631-666165633361\-\resizeb\20x\IMG_20210422_130207-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3737-3038-4063-b433-356666643864/-/resizeb/20x/IMG_20210422_164532-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3737-3038-4063-b433-356666643864\-\resizeb\20x\IMG_20210422_164532-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3766-3263-4532-a665-333564383266/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3766-3263-4532-a665-333564383266\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3831-3536-4538-b030-313730653361/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3831-3536-4538-b030-313730653361\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3831-6537-4661-b236-653736653531/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3831-6537-4661-b236-653736653531\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3836-3666-4831-a562-633035313239/-Puzzle-Tea--------2.ico
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3836-3666-4831-a562-633035313239\-Puzzle-Tea--------2.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild3862-3136-4565-b661-346263623837/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3862-3136-4565-b661-346263623837\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3863-3366-4736-a233-643964393438/-/empty/1.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3863-3366-4736-a233-643964393438\-\empty\1.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3865-6234-4237-b433-313835633561/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3865-6234-4237-b433-313835633561\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild3936-6132-4337-b934-616234336239/-/resizeb/20x/_______Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3936-6132-4337-b934-616234336239\-\resizeb\20x\_______Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3939-3564-4132-b364-663535333435/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild3939-3564-4132-b364-663535333435\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6130-3564-4433-b234-383136316232/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6130-3564-4433-b234-383136316232\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6136-3133-4537-b636-376430353439/hero_2.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6136-3133-4537-b636-376430353439\hero_2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6165-3564-4034-a234-633837643664/-/resizeb/20x/___-_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6165-3564-4034-a234-633837643664\-\resizeb\20x\___-_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6231-3761-4164-a235-643562313534/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6231-3761-4164-a235-643562313534\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6235-6339-4237-b933-636661333563/-/resizeb/20x/________Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6235-6339-4237-b933-636661333563\-\resizeb\20x\________Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6239-3066-4633-b631-663438616332/-/resizeb/20x/__.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6239-3066-4633-b631-663438616332\-\resizeb\20x\__.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6239-3433-4038-a437-333933613738/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6239-3433-4038-a437-333933613738\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6262-3434-4536-a632-323365373630/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6262-3434-4536-a632-323365373630\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6263-3061-4435-a435-396461663636/-/resizeb/20x/IMG_20210610_165158-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6263-3061-4435-a435-396461663636\-\resizeb\20x\IMG_20210610_165158-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6265-3132-4464-a130-613564356334/-/empty/000.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6265-3132-4464-a130-613564356334\-\empty\000.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6266-3535-4366-b665-656537643537/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6266-3535-4366-b665-656537643537\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6332-3364-4264-a336-373438313736/-/empty/photo.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6332-3364-4264-a336-373438313736\-\empty\photo.JPG
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6334-3935-4634-b636-333336643761/Futura_Demi.woff
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6334-3935-4634-b636-333336643761\Futura_Demi.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/tild6337-3835-4962-b632-376535396337/-/resizeb/20x/IMG_20210610_164927-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6337-3835-4962-b632-376535396337\-\resizeb\20x\IMG_20210610_164927-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6361-3836-4666-b235-633938643933/-/resizeb/20x/___Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6361-3836-4666-b235-633938643933\-\resizeb\20x\___Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6430-3638-4864-b861-633431393362/box_rose.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6430-3638-4864-b861-633431393362\box_rose.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6434-3062-4033-b736-383231396536/-/resizeb/20x/___Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6434-3062-4033-b736-383231396536\-\resizeb\20x\___Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6434-3532-4636-a235-386262313764/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6434-3532-4636-a235-386262313764\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6436-3039-4661-b331-383866383766/-/resizeb/20x/___.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6436-3039-4661-b331-383866383766\-\resizeb\20x\___.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6533-6138-4662-b233-303137323563/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6533-6138-4662-b233-303137323563\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6537-3264-4963-a661-613966616536/-/resizeb/20x/photo_2021-02-24_14-.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6537-3264-4963-a661-613966616536\-\resizeb\20x\photo_2021-02-24_14-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6632-6565-4339-b239-633638666231/hero_1.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6632-6565-4339-b239-633638666231\hero_1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6635-3661-4030-a539-303165626261/adds3.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6635-3661-4030-a539-303165626261\adds3.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6637-6132-4339-b261-636531366338/-/resizeb/20x/_Puzzle_tea.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6637-6132-4339-b261-636531366338\-\resizeb\20x\_Puzzle_tea.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6638-3731-4335-b763-313466313164/-/resizeb/20x/IMG_20210422_130032-.jpeg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6638-3731-4335-b763-313466313164\-\resizeb\20x\IMG_20210422_130032-.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6664-3562-4036-b538-646537313735/box_brandl.jpg
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6664-3562-4036-b538-646537313735\box_brandl.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild6666-3962-4737-a435-613138376465/-/empty/3.JPG
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tild6666-3962-4737-a435-613138376465\-\empty\3.JPG
+Content Type: image/jpeg
+
+Uri: https://unpkg.com/scrollbooster@3.0.2/dist/scrollbooster.min.js
+File Name: C:\Downloaded Web Sites\puzzletea.ru\scrollbooster@3.0.2\dist\scrollbooster.min.js
+Content Type: application/javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-1264860-aQGZ1
+File Name: C:\Downloaded Web Sites\puzzletea.ru\rtrg-1
+Content Type: image/gif
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-898714-h23u
+File Name: C:\Downloaded Web Sites\puzzletea.ru\rtrg
+Content Type: image/gif
+
+Uri: https://www.facebook.com/tr?id=1034401870377947&ev=PageView&agent=pltilda&noscript=1
+File Name: C:\Downloaded Web Sites\puzzletea.ru\tr
+Content Type: text/plain
+

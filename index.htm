@@ -427,7 +427,7 @@
                            if(!isMobile || (isMobile && needMobile)) {
                            $(window).scroll(function() {
                            var top = $(document).scrollTop();
-                           /* появление меню при прокрутке через 250 пикселей */
+                           /* появление Menu при прокрутке через 250 пикселей */
                            if (top >= 500) {
                            newMenu.removeClass("unpinned");
                            newMenu.addClass("pinned");
@@ -446,7 +446,7 @@
                            position: fixed;
                            bottom: 0;
                            width: 100%;
-                           transition: transform 250ms linear; /* время появления/исчезновения меню — 250 мс */
+                           transition: transform 250ms linear; /* время появления/исчезновения Menu — 250 мс */
                            z-index: 99999;
                            }
                            .pinned {
